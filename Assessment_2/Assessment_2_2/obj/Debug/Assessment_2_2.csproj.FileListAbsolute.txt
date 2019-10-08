@@ -7,3 +7,12 @@
 \\Mac\Home\Desktop\Assessment_2_2\bin\Debug\Assessment_2_2.pdb
 \\Mac\Home\Desktop\Assessment_2_2\obj\Debug\Assessment_2_2.exe
 \\Mac\Home\Desktop\Assessment_2_2\obj\Debug\Assessment_2_2.pdb
+\\Mac\Home\Desktop\C#\CSharp_Work\Assessment_2\Assessment_2_2\bin\Debug\Assessment_2_2.exe.config
+\\Mac\Home\Desktop\C#\CSharp_Work\Assessment_2\Assessment_2_2\bin\Debug\Assessment_2_2.exe
+\\Mac\Home\Desktop\C#\CSharp_Work\Assessment_2\Assessment_2_2\bin\Debug\Assessment_2_2.pdb
+\\Mac\Home\Desktop\C#\CSharp_Work\Assessment_2\Assessment_2_2\obj\Debug\Assessment_2_2.frmMain.resources
+\\Mac\Home\Desktop\C#\CSharp_Work\Assessment_2\Assessment_2_2\obj\Debug\Assessment_2_2.Properties.Resources.resources
+\\Mac\Home\Desktop\C#\CSharp_Work\Assessment_2\Assessment_2_2\obj\Debug\Assessment_2_2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\C#\CSharp_Work\Assessment_2\Assessment_2_2\obj\Debug\Assessment_2_2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\CSharp_Work\Assessment_2\Assessment_2_2\obj\Debug\Assessment_2_2.exe
+\\Mac\Home\Desktop\C#\CSharp_Work\Assessment_2\Assessment_2_2\obj\Debug\Assessment_2_2.pdb

@@ -46,6 +46,7 @@
             // 
             // btnQuit
             // 
+            this.btnQuit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnQuit.Location = new System.Drawing.Point(535, 13);
             this.btnQuit.Name = "btnQuit";
             this.btnQuit.Size = new System.Drawing.Size(75, 23);
@@ -76,7 +77,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnQuit;
             this.ClientSize = new System.Drawing.Size(626, 526);
+            this.ControlBox = false;
             this.Controls.Add(this.lblTypes);
             this.Controls.Add(this.lblInfo);
             this.Controls.Add(this.btnQuit);
