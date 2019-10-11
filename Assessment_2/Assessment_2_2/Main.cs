@@ -49,6 +49,8 @@ namespace Assessment_2_2
             {
                 if (Path.GetExtension(img).Equals(".png", StringComparison.CurrentCultureIgnoreCase) || 
                     Path.GetExtension(img).Equals(".jpg", StringComparison.CurrentCultureIgnoreCase) ||
+                    Path.GetExtension(img).Equals(".jpeg", StringComparison.CurrentCultureIgnoreCase) || 
+                    Path.GetExtension(img).Equals(".tiff", StringComparison.CurrentCultureIgnoreCase) || 
                     Path.GetExtension(img).Equals(".gif", StringComparison.CurrentCultureIgnoreCase))
                 {
                     imgDisplay.Visible = true;
@@ -59,7 +61,7 @@ namespace Assessment_2_2
                 else
                 {
                     imgDisplay.Visible = false;
-                    lblInfo.Text = "Error - Use a png, jpg or gif file only.";
+                    lblInfo.Text = "Error - Use a png, jpg, jpeg, tiff or gif file only.";
                     lblInfo.Visible = true;
                     lblTypes.Visible = false;
                 }

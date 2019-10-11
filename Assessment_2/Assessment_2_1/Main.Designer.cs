@@ -34,7 +34,7 @@
             // 
             // btnDraw
             // 
-            this.btnDraw.Location = new System.Drawing.Point(610, 379);
+            this.btnDraw.Location = new System.Drawing.Point(597, 397);
             this.btnDraw.Name = "btnDraw";
             this.btnDraw.Size = new System.Drawing.Size(75, 23);
             this.btnDraw.TabIndex = 0;
@@ -44,12 +44,11 @@
             // 
             // btnExit
             // 
-            this.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnExit.Location = new System.Drawing.Point(610, 409);
+            this.btnExit.Location = new System.Drawing.Point(597, 426);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(75, 23);
             this.btnExit.TabIndex = 1;
-            this.btnExit.Text = "Quit";
+            this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.BtnExit_Click);
             // 
@@ -58,13 +57,12 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnExit;
-            this.ClientSize = new System.Drawing.Size(706, 450);
+            this.ClientSize = new System.Drawing.Size(684, 461);
             this.ControlBox = false;
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnDraw);
             this.Name = "frmMain";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Assessment 2.1 - 2D Graphics";
+            this.Text = "Assessment 2 - 2D Graphics";
             this.ResumeLayout(false);
 
         }

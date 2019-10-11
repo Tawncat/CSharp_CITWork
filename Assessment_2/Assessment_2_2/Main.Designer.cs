@@ -67,11 +67,11 @@
             // lblTypes
             // 
             this.lblTypes.AutoSize = true;
-            this.lblTypes.Location = new System.Drawing.Point(168, 143);
+            this.lblTypes.Location = new System.Drawing.Point(147, 143);
             this.lblTypes.Name = "lblTypes";
-            this.lblTypes.Size = new System.Drawing.Size(160, 13);
+            this.lblTypes.Size = new System.Drawing.Size(203, 13);
             this.lblTypes.TabIndex = 3;
-            this.lblTypes.Text = "File types accepted: jpg, png, gif";
+            this.lblTypes.Text = "File types accepted: jpg, jpeg, png, tiff, gif";
             // 
             // frmMain
             // 
