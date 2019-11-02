@@ -1,0 +1,13 @@
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\bin\Debug\Assessment_4.exe.config
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\bin\Debug\Assessment_4.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\bin\Debug\Assessment_4.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.frmMain.resources
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.Properties.Resources.resources
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.csproj.GenerateResource.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.frmBinaryTree.resources
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.frmHashTables.resources
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_4\obj\Debug\Assessment_4.frmLinkedList.resources
