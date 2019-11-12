@@ -1,0 +1,11 @@
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\bin\Debug\netcoreapp2.1\BinaryTreeDemo.deps.json
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\bin\Debug\netcoreapp2.1\BinaryTreeDemo.runtimeconfig.json
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\bin\Debug\netcoreapp2.1\BinaryTreeDemo.runtimeconfig.dev.json
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\bin\Debug\netcoreapp2.1\BinaryTreeDemo.dll
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\bin\Debug\netcoreapp2.1\BinaryTreeDemo.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\obj\Debug\netcoreapp2.1\BinaryTreeDemo.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\obj\Debug\netcoreapp2.1\BinaryTreeDemo.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\obj\Debug\netcoreapp2.1\BinaryTreeDemo.AssemblyInfoInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\obj\Debug\netcoreapp2.1\BinaryTreeDemo.AssemblyInfo.cs
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\obj\Debug\netcoreapp2.1\BinaryTreeDemo.dll
+Z:\Documents\CIT\C#\CSharp_Work\Demos\BinaryTreeDemo\obj\Debug\netcoreapp2.1\BinaryTreeDemo.pdb

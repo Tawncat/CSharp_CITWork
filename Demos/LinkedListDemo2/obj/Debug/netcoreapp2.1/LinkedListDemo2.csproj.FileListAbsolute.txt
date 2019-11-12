@@ -1,0 +1,10 @@
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\bin\Debug\netcoreapp2.1\LinkedListDemo2.deps.json
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\bin\Debug\netcoreapp2.1\LinkedListDemo2.runtimeconfig.json
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\bin\Debug\netcoreapp2.1\LinkedListDemo2.runtimeconfig.dev.json
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\bin\Debug\netcoreapp2.1\LinkedListDemo2.dll
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\bin\Debug\netcoreapp2.1\LinkedListDemo2.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\obj\Debug\netcoreapp2.1\LinkedListDemo2.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\obj\Debug\netcoreapp2.1\LinkedListDemo2.AssemblyInfoInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\obj\Debug\netcoreapp2.1\LinkedListDemo2.AssemblyInfo.cs
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\obj\Debug\netcoreapp2.1\LinkedListDemo2.dll
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo2\obj\Debug\netcoreapp2.1\LinkedListDemo2.pdb

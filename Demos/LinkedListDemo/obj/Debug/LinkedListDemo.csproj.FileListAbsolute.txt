@@ -1,0 +1,10 @@
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\bin\Debug\LinkedListDemo.exe.config
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\bin\Debug\LinkedListDemo.exe
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\bin\Debug\LinkedListDemo.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\obj\Debug\LinkedListDemo.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\obj\Debug\LinkedListDemo.Form1.resources
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\obj\Debug\LinkedListDemo.Properties.Resources.resources
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\obj\Debug\LinkedListDemo.csproj.GenerateResource.cache
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\obj\Debug\LinkedListDemo.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\obj\Debug\LinkedListDemo.exe
+Z:\Documents\CIT\C#\CSharp_Work\Demos\LinkedListDemo\obj\Debug\LinkedListDemo.pdb
