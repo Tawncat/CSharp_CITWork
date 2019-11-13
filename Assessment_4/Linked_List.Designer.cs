@@ -33,7 +33,8 @@
             this.txtInput = new System.Windows.Forms.TextBox();
             this.lblDisplay = new System.Windows.Forms.Label();
             this.btnForward = new System.Windows.Forms.Button();
-            this.btnBackwards = new System.Windows.Forms.Button();
+            this.btnBackward = new System.Windows.Forms.Button();
+            this.btnSubmit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnClose
@@ -44,7 +45,7 @@
             this.btnClose.TabIndex = 0;
             this.btnClose.Text = "Close";
             this.btnClose.UseVisualStyleBackColor = true;
-            this.btnClose.Click += new System.EventHandler(this.BtnClose_Click);
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
             // label1
             // 
@@ -80,14 +81,23 @@
             this.btnForward.Text = "Forward";
             this.btnForward.UseVisualStyleBackColor = true;
             // 
-            // btnBackwards
+            // btnBackward
             // 
-            this.btnBackwards.Location = new System.Drawing.Point(469, 25);
-            this.btnBackwards.Name = "btnBackwards";
-            this.btnBackwards.Size = new System.Drawing.Size(75, 23);
-            this.btnBackwards.TabIndex = 5;
-            this.btnBackwards.Text = "Backwards";
-            this.btnBackwards.UseVisualStyleBackColor = true;
+            this.btnBackward.Location = new System.Drawing.Point(469, 25);
+            this.btnBackward.Name = "btnBackward";
+            this.btnBackward.Size = new System.Drawing.Size(75, 23);
+            this.btnBackward.TabIndex = 5;
+            this.btnBackward.Text = "Backwards";
+            this.btnBackward.UseVisualStyleBackColor = true;
+            // 
+            // btnSubmit
+            // 
+            this.btnSubmit.Location = new System.Drawing.Point(64, 77);
+            this.btnSubmit.Name = "btnSubmit";
+            this.btnSubmit.Size = new System.Drawing.Size(75, 23);
+            this.btnSubmit.TabIndex = 6;
+            this.btnSubmit.Text = "Submit";
+            this.btnSubmit.UseVisualStyleBackColor = true;
             // 
             // frmLinkedList
             // 
@@ -95,7 +105,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.ControlBox = false;
-            this.Controls.Add(this.btnBackwards);
+            this.Controls.Add(this.btnSubmit);
+            this.Controls.Add(this.btnBackward);
             this.Controls.Add(this.btnForward);
             this.Controls.Add(this.lblDisplay);
             this.Controls.Add(this.txtInput);
@@ -116,6 +127,7 @@
         private System.Windows.Forms.TextBox txtInput;
         private System.Windows.Forms.Label lblDisplay;
         private System.Windows.Forms.Button btnForward;
-        private System.Windows.Forms.Button btnBackwards;
+        private System.Windows.Forms.Button btnBackward;
+        private System.Windows.Forms.Button btnSubmit;
     }
 }

@@ -30,11 +30,11 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.File = new System.Windows.Forms.ToolStripMenuItem();
-            this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.linkedListToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.binaryTreeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hashTablesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -61,6 +61,34 @@
             this.File.Size = new System.Drawing.Size(37, 20);
             this.File.Text = "File";
             // 
+            // linkedListToolStripMenuItem
+            // 
+            this.linkedListToolStripMenuItem.Name = "linkedListToolStripMenuItem";
+            this.linkedListToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
+            this.linkedListToolStripMenuItem.Text = "Linked List";
+            this.linkedListToolStripMenuItem.Click += new System.EventHandler(this.LinkedListToolStripMenuItem_Click);
+            // 
+            // binaryTreeToolStripMenuItem
+            // 
+            this.binaryTreeToolStripMenuItem.Name = "binaryTreeToolStripMenuItem";
+            this.binaryTreeToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
+            this.binaryTreeToolStripMenuItem.Text = "Binary Tree";
+            this.binaryTreeToolStripMenuItem.Click += new System.EventHandler(this.BinaryTreeToolStripMenuItem_Click);
+            // 
+            // hashTablesToolStripMenuItem
+            // 
+            this.hashTablesToolStripMenuItem.Name = "hashTablesToolStripMenuItem";
+            this.hashTablesToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
+            this.hashTablesToolStripMenuItem.Text = "Hash Tables";
+            this.hashTablesToolStripMenuItem.Click += new System.EventHandler(this.HashTablesToolStripMenuItem_Click);
+            // 
+            // exitToolStripMenuItem
+            // 
+            this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
+            this.exitToolStripMenuItem.Text = "Exit";
+            this.exitToolStripMenuItem.Click += new System.EventHandler(this.ExitToolStripMenuItem_Click);
+            // 
             // helpToolStripMenuItem
             // 
             this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -69,38 +97,10 @@
             this.helpToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
             this.helpToolStripMenuItem.Text = "Help";
             // 
-            // linkedListToolStripMenuItem
-            // 
-            this.linkedListToolStripMenuItem.Name = "linkedListToolStripMenuItem";
-            this.linkedListToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.linkedListToolStripMenuItem.Text = "Linked List";
-            this.linkedListToolStripMenuItem.Click += new System.EventHandler(this.LinkedListToolStripMenuItem_Click);
-            // 
-            // binaryTreeToolStripMenuItem
-            // 
-            this.binaryTreeToolStripMenuItem.Name = "binaryTreeToolStripMenuItem";
-            this.binaryTreeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.binaryTreeToolStripMenuItem.Text = "Binary Tree";
-            this.binaryTreeToolStripMenuItem.Click += new System.EventHandler(this.BinaryTreeToolStripMenuItem_Click);
-            // 
-            // hashTablesToolStripMenuItem
-            // 
-            this.hashTablesToolStripMenuItem.Name = "hashTablesToolStripMenuItem";
-            this.hashTablesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.hashTablesToolStripMenuItem.Text = "Hash Tables";
-            this.hashTablesToolStripMenuItem.Click += new System.EventHandler(this.HashTablesToolStripMenuItem_Click);
-            // 
-            // exitToolStripMenuItem
-            // 
-            this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.exitToolStripMenuItem.Text = "Exit";
-            this.exitToolStripMenuItem.Click += new System.EventHandler(this.ExitToolStripMenuItem_Click);
-            // 
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(107, 22);
             this.aboutToolStripMenuItem.Text = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.AboutToolStripMenuItem_Click);
             // 
