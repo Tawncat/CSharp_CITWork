@@ -14,6 +14,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Collections;
 
 namespace Assessment_4
 {
@@ -22,6 +23,9 @@ namespace Assessment_4
         public frmHashTables()
         {
             InitializeComponent();
+
+            Hashtable hashtable = new Hashtable();
+            hashtable.Add("Password", "Cat");
         }
 
         private void BtnClose_Click(object sender, EventArgs e)
