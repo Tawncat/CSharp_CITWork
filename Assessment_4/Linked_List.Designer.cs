@@ -97,6 +97,7 @@
             this.textBox1.Location = new System.Drawing.Point(12, 12);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(231, 69);
             this.textBox1.TabIndex = 7;
             this.textBox1.Text = "Enter at least a 7 letter word. \r\n\r\nThis application checks if it is a palindrome" +

@@ -272,7 +272,7 @@ namespace Assessment_4
             int key = Convert.ToInt32(txtSearch.Text);
             if (tree.Find(key) == null)
             {
-                lblDisplay.Text = key + " Not Found";
+                lblDisplay.Text = key + "is Not Found";
                 txtSearch.Text = "";
             }
             else
