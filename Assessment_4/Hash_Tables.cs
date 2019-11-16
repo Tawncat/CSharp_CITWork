@@ -68,9 +68,9 @@ namespace Assessment_4
             AddToHashtable(hashtable);
             lstDisplay.Items.Clear();
 
-            foreach(DictionaryEntry entry in hashtable)//displays all the entered keys from the hashtable
+            foreach(char key in hashtable.Keys)//displays all the entered keys from the hashtable
             {
-                lstDisplay.Items.Add(Convert.ToString(entry.Key));
+                lstDisplay.Items.Add(key);
             }
 
             int count = hashtable.Count;//returns the amount of entries in the hashtable
