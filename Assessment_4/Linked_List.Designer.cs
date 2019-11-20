@@ -57,9 +57,10 @@
             // 
             // lblDisplay
             // 
-            this.lblDisplay.Location = new System.Drawing.Point(12, 115);
+            this.lblDisplay.Font = new System.Drawing.Font("Bahnschrift Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDisplay.Location = new System.Drawing.Point(16, 120);
             this.lblDisplay.Name = "lblDisplay";
-            this.lblDisplay.Size = new System.Drawing.Size(231, 25);
+            this.lblDisplay.Size = new System.Drawing.Size(248, 25);
             this.lblDisplay.TabIndex = 3;
             this.lblDisplay.Text = "Waiting for Word";
             this.lblDisplay.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -93,21 +94,24 @@
             // 
             // textBox1
             // 
-            this.textBox1.Enabled = false;
-            this.textBox1.Location = new System.Drawing.Point(12, 12);
+            this.textBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox1.Font = new System.Drawing.Font("Bahnschrift Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(19, 26);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(231, 69);
+            this.textBox1.Size = new System.Drawing.Size(248, 69);
             this.textBox1.TabIndex = 7;
             this.textBox1.Text = "Enter at least a 7 letter word. \r\n\r\nThis application checks if it is a palindrome" +
     " and displays it both directions.";
             // 
             // lblStatus
             // 
-            this.lblStatus.Location = new System.Drawing.Point(15, 161);
+            this.lblStatus.Font = new System.Drawing.Font("Bahnschrift Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblStatus.Location = new System.Drawing.Point(19, 168);
             this.lblStatus.Name = "lblStatus";
-            this.lblStatus.Size = new System.Drawing.Size(228, 25);
+            this.lblStatus.Size = new System.Drawing.Size(245, 25);
             this.lblStatus.TabIndex = 8;
             this.lblStatus.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -115,6 +119,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Cornsilk;
             this.ClientSize = new System.Drawing.Size(444, 252);
             this.ControlBox = false;
             this.Controls.Add(this.lblStatus);

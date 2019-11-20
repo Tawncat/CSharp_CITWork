@@ -59,6 +59,7 @@
             // 
             // lblDisplay
             // 
+            this.lblDisplay.Font = new System.Drawing.Font("Bahnschrift Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDisplay.Location = new System.Drawing.Point(26, 143);
             this.lblDisplay.Name = "lblDisplay";
             this.lblDisplay.Size = new System.Drawing.Size(192, 23);
@@ -100,12 +101,13 @@
             // 
             // textBox1
             // 
-            this.textBox1.Enabled = false;
-            this.textBox1.Location = new System.Drawing.Point(233, 28);
+            this.textBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.textBox1.Font = new System.Drawing.Font("Bahnschrift Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(233, 24);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(192, 84);
+            this.textBox1.Size = new System.Drawing.Size(195, 93);
             this.textBox1.TabIndex = 9;
             this.textBox1.Text = "Enter a single character.\r\n\r\nSearch the hashtable for your character key and see " +
     "what its *secret* value is.";
@@ -132,6 +134,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Lavender;
             this.ClientSize = new System.Drawing.Size(455, 352);
             this.ControlBox = false;
             this.Controls.Add(this.btnClear);

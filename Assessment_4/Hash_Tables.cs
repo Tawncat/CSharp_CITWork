@@ -29,7 +29,7 @@ namespace Assessment_4
 
             Hashtable hashtable = new Hashtable();//creates a new empty hashtable
 
-            //custom event handlers to recieve variables
+            //custom event handlers to allow passing parameters to the event
             btnSubmit.Click += delegate (object sender, EventArgs e) { BtnSubmit_Click(sender, e, hashtable); };
             btnSearch.Click += delegate (object sender, EventArgs e) { BtnSearch_Click(sender, e, hashtable); };
             btnClear.Click += delegate (object sender, EventArgs e) { BtnClear_Click(sender, e, hashtable); };
@@ -113,6 +113,7 @@ namespace Assessment_4
             hashtable.Clear();
             lblDisplay.Text = "Hashtable Cleared";
             btnClear.Enabled = false;
+            lblTitle.Text = "Your Keys: ";
             btnSearch.Enabled = false;
         }
 

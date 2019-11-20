@@ -27,7 +27,7 @@ namespace Assessment_4
             btnForward.Enabled = false;
             LinkedList<char> data = new LinkedList<char>();//creating the linked list
 
-            //custom event handlers to recieve variables
+            //custom event handlers to allow passing parameters to the event
             btnForward.Click += delegate (object sender, EventArgs e) { btnForward_Click(sender, e, data); };
             btnBackward.Click += delegate (object sender, EventArgs e) { btnBackward_Click(sender, e, data); };
             btnSubmit.Click += delegate (object sender, EventArgs e) { btnSubmit_Click(sender, e, data); };
@@ -95,6 +95,7 @@ namespace Assessment_4
             else
             {
                 lblDisplay.Text = "Enter at least 7 letters.";
+                lblStatus.Text = "";
             }
         }
 

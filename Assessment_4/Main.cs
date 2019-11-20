@@ -49,7 +49,7 @@ namespace Assessment_4
 
         private void AboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Created By: Grace Toyer \nCIT014747");
+            MessageBox.Show("Grace Toyer \nCIT014747 \nNovember 2019");
         }
     }
 }

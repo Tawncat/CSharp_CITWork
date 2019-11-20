@@ -42,7 +42,7 @@
             // 
             // btnClose
             // 
-            this.btnClose.Location = new System.Drawing.Point(399, 161);
+            this.btnClose.Location = new System.Drawing.Point(399, 182);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(75, 23);
             this.btnClose.TabIndex = 0;
@@ -52,7 +52,7 @@
             // 
             // btnDisplay
             // 
-            this.btnDisplay.Location = new System.Drawing.Point(156, 117);
+            this.btnDisplay.Location = new System.Drawing.Point(156, 138);
             this.btnDisplay.Name = "btnDisplay";
             this.btnDisplay.Size = new System.Drawing.Size(75, 23);
             this.btnDisplay.TabIndex = 2;
@@ -61,7 +61,7 @@
             // 
             // btnSearch
             // 
-            this.btnSearch.Location = new System.Drawing.Point(156, 161);
+            this.btnSearch.Location = new System.Drawing.Point(156, 182);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(75, 23);
             this.btnSearch.TabIndex = 3;
@@ -70,14 +70,14 @@
             // 
             // txtIntegers
             // 
-            this.txtIntegers.Location = new System.Drawing.Point(25, 75);
+            this.txtIntegers.Location = new System.Drawing.Point(25, 96);
             this.txtIntegers.Name = "txtIntegers";
             this.txtIntegers.Size = new System.Drawing.Size(100, 20);
             this.txtIntegers.TabIndex = 4;
             // 
             // btnSubmit
             // 
-            this.btnSubmit.Location = new System.Drawing.Point(156, 75);
+            this.btnSubmit.Location = new System.Drawing.Point(156, 96);
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(75, 23);
             this.btnSubmit.TabIndex = 7;
@@ -86,9 +86,10 @@
             // 
             // lblDisplay
             // 
-            this.lblDisplay.Location = new System.Drawing.Point(25, 98);
+            this.lblDisplay.Font = new System.Drawing.Font("Bahnschrift Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDisplay.Location = new System.Drawing.Point(12, 119);
             this.lblDisplay.Name = "lblDisplay";
-            this.lblDisplay.Size = new System.Drawing.Size(100, 63);
+            this.lblDisplay.Size = new System.Drawing.Size(138, 63);
             this.lblDisplay.TabIndex = 8;
             this.lblDisplay.Text = "Waiting for input...";
             this.lblDisplay.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -96,14 +97,14 @@
             // lstDisplay
             // 
             this.lstDisplay.FormattingEnabled = true;
-            this.lstDisplay.Location = new System.Drawing.Point(259, 24);
+            this.lstDisplay.Location = new System.Drawing.Point(267, 24);
             this.lstDisplay.Name = "lstDisplay";
-            this.lstDisplay.Size = new System.Drawing.Size(120, 160);
+            this.lstDisplay.Size = new System.Drawing.Size(120, 173);
             this.lstDisplay.TabIndex = 10;
             // 
             // txtSearch
             // 
-            this.txtSearch.Location = new System.Drawing.Point(25, 164);
+            this.txtSearch.Location = new System.Drawing.Point(25, 185);
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(100, 20);
             this.txtSearch.TabIndex = 11;
@@ -120,22 +121,25 @@
             // 
             // textBox1
             // 
-            this.textBox1.Enabled = false;
+            this.textBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox1.Font = new System.Drawing.Font("Bahnschrift Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(12, 12);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(241, 57);
+            this.textBox1.Size = new System.Drawing.Size(241, 70);
             this.textBox1.TabIndex = 13;
-            this.textBox1.Text = "Enter at least 10 integers into the binary tree.\r\n\r\nYou can then display them in-" +
-    "order and search the tree.";
+            this.textBox1.Text = "Enter at least 10 integers into the binary tree.\r\nYou can then display them in-or" +
+    "der and search the tree.";
             // 
             // frmBinaryTree
             // 
             this.AcceptButton = this.btnSubmit;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(510, 211);
+            this.BackColor = System.Drawing.Color.Honeydew;
+            this.ClientSize = new System.Drawing.Size(489, 224);
             this.ControlBox = false;
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.btnReset);

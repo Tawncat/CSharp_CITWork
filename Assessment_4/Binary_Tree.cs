@@ -19,7 +19,7 @@ namespace Assessment_4
 {
     public partial class frmBinaryTree : Form
     {
-        const int minsize = 3;//the amount of integers needed
+        const int minsize = 10;//the amount of integers needed
 
         class Node
         {
@@ -211,7 +211,7 @@ namespace Assessment_4
 
             BinaryTree tree = new BinaryTree();//Creation of the Binary Tree
 
-            //custom event handlers to allow for passing of variables
+            //custom event handlers to allow passing parameters to the event
             btnSubmit.Click += delegate (object sender, EventArgs e) { btnSubmit_Click(sender, e, tree); };
             btnDisplay.Click += delegate (object sender, EventArgs e) { btnDisplay_Click(sender, e, tree); };
             btnSearch.Click += delegate (object sender, EventArgs e) { btnSearch_Click(sender, e, tree); };
@@ -272,7 +272,7 @@ namespace Assessment_4
             int key = Convert.ToInt32(txtSearch.Text);
             if (tree.Find(key) == null)
             {
-                lblDisplay.Text = key + "is Not Found";
+                lblDisplay.Text = key + " is Not Found";
                 txtSearch.Text = "";
             }
             else
