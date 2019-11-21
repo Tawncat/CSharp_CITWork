@@ -1,0 +1,9 @@
+Z:\Documents\CIT\C#\CSharp_Work\Calculations\bin\Debug\netstandard2.0\Calculations.deps.json
+Z:\Documents\CIT\C#\CSharp_Work\Calculations\bin\Debug\netstandard2.0\Calculations.dll
+Z:\Documents\CIT\C#\CSharp_Work\Calculations\bin\Debug\netstandard2.0\Calculations.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Calculations\obj\Debug\netstandard2.0\Calculations.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Calculations\obj\Debug\netstandard2.0\Calculations.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Calculations\obj\Debug\netstandard2.0\Calculations.AssemblyInfoInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Calculations\obj\Debug\netstandard2.0\Calculations.AssemblyInfo.cs
+Z:\Documents\CIT\C#\CSharp_Work\Calculations\obj\Debug\netstandard2.0\Calculations.dll
+Z:\Documents\CIT\C#\CSharp_Work\Calculations\obj\Debug\netstandard2.0\Calculations.pdb

@@ -1,0 +1,10 @@
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\bin\Debug\Assessment_5_Part1.exe.config
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\bin\Debug\Assessment_5_Part1.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\bin\Debug\Assessment_5_Part1.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\obj\Debug\Assessment_5_Part1.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\obj\Debug\Assessment_5_Part1.frmMain.resources
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\obj\Debug\Assessment_5_Part1.Properties.Resources.resources
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\obj\Debug\Assessment_5_Part1.csproj.GenerateResource.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\obj\Debug\Assessment_5_Part1.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\obj\Debug\Assessment_5_Part1.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\obj\Debug\Assessment_5_Part1.pdb
