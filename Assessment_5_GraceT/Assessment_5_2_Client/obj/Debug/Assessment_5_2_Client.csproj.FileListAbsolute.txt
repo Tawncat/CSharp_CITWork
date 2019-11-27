@@ -1,0 +1,13 @@
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Client\bin\Debug\Assessment_5_2_Client.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Client\bin\Debug\Assessment_5_2_Client.exe.config
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Client\bin\Debug\Assessment_5_2_Client.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Client\obj\Debug\Assessment_5_2_Client.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Client\obj\Debug\Assessment_5_2_Client.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Client\obj\Debug\Assessment_5_2_Client.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Client\bin\Debug\Assessment_5_2_Client.exe.config
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Client\bin\Debug\Assessment_5_2_Client.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Client\bin\Debug\Assessment_5_2_Client.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Client\obj\Debug\Assessment_5_2_Client.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Client\obj\Debug\Assessment_5_2_Client.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Client\obj\Debug\Assessment_5_2_Client.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Client\obj\Debug\Assessment_5_2_Client.pdb

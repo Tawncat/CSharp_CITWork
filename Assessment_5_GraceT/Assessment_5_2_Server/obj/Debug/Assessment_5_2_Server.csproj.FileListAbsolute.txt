@@ -1,0 +1,14 @@
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Server\bin\Debug\Assessment_5_2_Server.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Server\bin\Debug\Assessment_5_2_Server.exe.config
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Server\bin\Debug\Assessment_5_2_Server.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Server\obj\Debug\Assessment_5_2_Server.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Server\obj\Debug\Assessment_5_2_Server.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Server\obj\Debug\Assessment_5_2_Server.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_2_Server\obj\Debug\Assessment_5_2_Server.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Server\bin\Debug\Assessment_5_2_Server.exe.config
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Server\bin\Debug\Assessment_5_2_Server.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Server\bin\Debug\Assessment_5_2_Server.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Server\obj\Debug\Assessment_5_2_Server.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Server\obj\Debug\Assessment_5_2_Server.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Server\obj\Debug\Assessment_5_2_Server.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_GraceT\Assessment_5_2_Server\obj\Debug\Assessment_5_2_Server.pdb

@@ -10,6 +10,10 @@ namespace Calculations
 {
     public class Equations
     {
+        public double Root (double x = 0)
+        {
+
+        }
         public double Addition (double x = 0, double y = 0)
         {
             return x + y;

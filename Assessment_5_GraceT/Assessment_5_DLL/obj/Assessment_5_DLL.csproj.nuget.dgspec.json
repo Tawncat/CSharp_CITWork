@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Documents\\CIT\\C#\\CSharp_Work\\Assessment_5_DLL\\Assessment_5_DLL.csproj": {}
+  },
+  "projects": {
+    "Z:\\Documents\\CIT\\C#\\CSharp_Work\\Assessment_5_DLL\\Assessment_5_DLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Documents\\CIT\\C#\\CSharp_Work\\Assessment_5_DLL\\Assessment_5_DLL.csproj",
+        "projectName": "Assessment_5_DLL",
+        "projectPath": "Z:\\Documents\\CIT\\C#\\CSharp_Work\\Assessment_5_DLL\\Assessment_5_DLL.csproj",
+        "packagesPath": "C:\\Users\\Gracie\\.nuget\\packages\\",
+        "outputPath": "Z:\\Documents\\CIT\\C#\\CSharp_Work\\Assessment_5_DLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gracie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

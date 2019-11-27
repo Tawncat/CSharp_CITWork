@@ -1,0 +1,13 @@
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\bin\Debug\Assessment_5_1.exe.config
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\bin\Debug\Assessment_5_1.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\bin\Debug\Assessment_5_1.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\obj\Debug\Assessment_5_1.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\obj\Debug\Assessment_5_1.frmMain.resources
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\obj\Debug\Assessment_5_1.Properties.Resources.resources
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\obj\Debug\Assessment_5_1.csproj.GenerateResource.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\obj\Debug\Assessment_5_1.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\obj\Debug\Assessment_5_1.exe
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\obj\Debug\Assessment_5_1.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\bin\Debug\Assessment_5_DLL.dll
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\bin\Debug\Assessment_5_DLL.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_1\obj\Debug\Assessment_5_1.csproj.CopyComplete

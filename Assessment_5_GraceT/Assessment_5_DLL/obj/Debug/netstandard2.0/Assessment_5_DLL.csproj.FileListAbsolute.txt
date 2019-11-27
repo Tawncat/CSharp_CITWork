@@ -1,0 +1,9 @@
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_DLL\obj\Debug\netstandard2.0\Assessment_5_DLL.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_DLL\obj\Debug\netstandard2.0\Assessment_5_DLL.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_DLL\obj\Debug\netstandard2.0\Assessment_5_DLL.AssemblyInfoInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_DLL\obj\Debug\netstandard2.0\Assessment_5_DLL.AssemblyInfo.cs
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_DLL\bin\Debug\netstandard2.0\Assessment_5_DLL.deps.json
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_DLL\bin\Debug\netstandard2.0\Assessment_5_DLL.dll
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_DLL\bin\Debug\netstandard2.0\Assessment_5_DLL.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_DLL\obj\Debug\netstandard2.0\Assessment_5_DLL.dll
+Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_DLL\obj\Debug\netstandard2.0\Assessment_5_DLL.pdb
