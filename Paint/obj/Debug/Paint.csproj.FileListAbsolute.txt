@@ -7,3 +7,13 @@ Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\bin\Debug\Paint.exe
 Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\bin\Debug\Paint.pdb
 Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\obj\Debug\Paint.exe
 Z:\Documents\CIT\C#\CSharp_Work\Assessment_5_Part1\obj\Debug\Paint.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Paint\bin\Debug\Paint.exe.config
+Z:\Documents\CIT\C#\CSharp_Work\Paint\bin\Debug\Paint.exe
+Z:\Documents\CIT\C#\CSharp_Work\Paint\bin\Debug\Paint.pdb
+Z:\Documents\CIT\C#\CSharp_Work\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+Z:\Documents\CIT\C#\CSharp_Work\Paint\obj\Debug\Paint.frmMain.resources
+Z:\Documents\CIT\C#\CSharp_Work\Paint\obj\Debug\Paint.Properties.Resources.resources
+Z:\Documents\CIT\C#\CSharp_Work\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+Z:\Documents\CIT\C#\CSharp_Work\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+Z:\Documents\CIT\C#\CSharp_Work\Paint\obj\Debug\Paint.exe
+Z:\Documents\CIT\C#\CSharp_Work\Paint\obj\Debug\Paint.pdb

@@ -109,7 +109,7 @@
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnColor);
             this.Name = "frmMain";
-            this.Text = "Assessment_5_DLL_Paint";
+            this.Text = "Paint Application";
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.FrmMain_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.FrmMain_MouseMove);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.FrmMain_MouseUp);
